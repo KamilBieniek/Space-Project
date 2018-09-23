@@ -8,4 +8,5 @@ Distances beetwen planets are not in scale.
 
 Textures for planets and sun: www.solarsystemscope.com
 
+
 Skybox: https://assetstore.unity.com/packages/2d/textures-materials/milky-way-skybox-94001
